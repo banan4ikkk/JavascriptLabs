@@ -27,7 +27,7 @@
 
 2.  **Клонируйте репозиторий с проектом:**
     ```bash
-    git clone [https://github.com/banan4ikkk/JavascriptLabs.git](https://github.com/banan4ikkk/JavascriptLabs.git)
+    git clone [GitHub](https://github.com/banan4ikkk/JavascriptLabs.git)
     ```
 
 3.  **Перейдите в директорию проекта IndividualWork2.** Поскольку в репозитории может быть несколько проектов, вам может потребоваться перейти в конкретную папку IndividualWork2. Предположим, папка называется `IndividualWork2`:
@@ -101,7 +101,7 @@
 
 ## Список использованных источников
 
-Документация MDN Web Docs - https://developer.mozilla.org/ru/
+[Документация MDN Web Docs]([https://nodejs.org/](https://developer.mozilla.org/ru/))
 
 Современный учебник JavaScript - https://learn.javascript.ru/
 
