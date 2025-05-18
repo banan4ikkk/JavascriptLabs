@@ -101,7 +101,7 @@
 
 ## Список использованных источников
 
-[Документация MDN Web Docs]([https://nodejs.org/](https://developer.mozilla.org/ru/))
+[Документация MDN Web Docs](https://developer.mozilla.org/ru/)
 
 Современный учебник JavaScript - https://learn.javascript.ru/
 
