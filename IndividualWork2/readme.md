@@ -103,11 +103,11 @@
 
 [Документация MDN Web Docs](https://developer.mozilla.org/ru/)
 
-Современный учебник JavaScript - https://learn.javascript.ru/
+[Современный учебник JavaScript](https://learn.javascript.ru/)
 
-Документация W3C по DOM - https://www.w3.org/DOM/
+[Документация W3C по DOM](https://www.w3.org/DOM/)
 
-Курс MOODLE - https://github.com/MSU-Courses/javascript
+[Курс MOODLE](https://github.com/MSU-Courses/javascript)
 
 
 ## Другие значимые аспекты
