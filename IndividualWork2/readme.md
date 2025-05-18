@@ -62,7 +62,7 @@
 1.  Введите текст новой задачи в поле ввода "Add a new task".
 2.  Нажмите кнопку "Add Task" или клавишу `Enter`. Новая задача появится в списке.
 
-![Скриншот добавления задачи]([https://prnt.sc/Q8-fnKF4nsKp](https://github.com/banan4ikkk/JavascriptLabs/blob/main/IndividualWork2/screens/image1.png))
+![Скриншот добавления задачи](https://github.com/banan4ikkk/JavascriptLabs/blob/main/IndividualWork2/screens/image1.png)
 
 ### Отметка задачи как выполненной
 
