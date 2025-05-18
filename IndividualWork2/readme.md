@@ -109,6 +109,15 @@
 
 ![Скриншот просмотра статистики задач](https://github.com/banan4ikkk/JavascriptLabs/blob/main/IndividualWork2/screens/image8.png)
 
+## Результат выполненой индивидуальной работы
+
+![Скриншот1](https://github.com/banan4ikkk/JavascriptLabs/blob/main/IndividualWork2/screens/image9.png)
+![Скриншот2](https://github.com/banan4ikkk/JavascriptLabs/blob/main/IndividualWork2/screens/image10.png)
+![Скриншот3](https://github.com/banan4ikkk/JavascriptLabs/blob/main/IndividualWork2/screens/image11.png)
+![Скриншот4](https://github.com/banan4ikkk/JavascriptLabs/blob/main/IndividualWork2/screens/image12.png)
+![Скриншот5](https://github.com/banan4ikkk/JavascriptLabs/blob/main/IndividualWork2/screens/image13.png)
+![Скриншот6](https://github.com/banan4ikkk/JavascriptLabs/blob/main/IndividualWork2/screens/image14.png)
+
 ## Список использованных источников
 
 [Документация MDN Web Docs](https://developer.mozilla.org/ru/)
