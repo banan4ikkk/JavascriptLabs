@@ -30,12 +30,11 @@
     git clone [https://github.com/banan4ikkk/JavascriptLabs.git](https://github.com/banan4ikkk/JavascriptLabs.git)
     ```
 
-3.  **Перейдите в директорию проекта To-Do List.** Поскольку в репозитории может быть несколько проектов, вам может потребоваться перейти в конкретную папку To-Do List (например, если она называется `todo-list` или как-то иначе). Предположим, папка называется `todo-list`:
+3.  **Перейдите в директорию проекта IndividualWork2.** Поскольку в репозитории может быть несколько проектов, вам может потребоваться перейти в конкретную папку IndividualWork2. Предположим, папка называется `IndividualWork2`:
     ```bash
-    cd JavascriptLabs/todo-list
+    cd JavascriptLabs/IndividualWork2
     ```
-    **Примечание:** Если ваш To-Do List находится прямо в корне репозитория `JavascriptLabs`, этот шаг можно пропустить. Пожалуйста, проверьте структуру своего репозитория.
-
+    
 4.  **Установите `serve`, если он еще не установлен глобально:**
     ```bash
     npm install -g serve
@@ -43,7 +42,7 @@
     yarn global add serve
     ```
 
-5.  **Запустите сервер `serve` из корневой директории проекта To-Do List:**
+5.  **Запустите сервер `serve` из корневой директории проекта IndividualWork2:**
     ```bash
     serve
     ```
